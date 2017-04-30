@@ -1,0 +1,25 @@
+{
+  "name": "event",
+  "version": "1.0.0",
+  "description": "Event registration app for affairal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achut93/eventRegistration.git"
+  },
+  "author": "achut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achut93/eventRegistration/issues"
+  },
+  "homepage": "https://github.com/achut93/eventRegistration#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.26",
+    "node": "0.0.0"
+  }
+}
